@@ -1,2 +1,2 @@
-# TP2-C-
+# TP2C++
 création d'une application de réservation d'un hotel 
